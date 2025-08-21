@@ -1,0 +1,10 @@
+streamlit 
+openai
+pyaudio 
+SpeechRecognition 
+gtts 
+pygame
+pipecat 
+websockets 
+requests
+openai api key = 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
